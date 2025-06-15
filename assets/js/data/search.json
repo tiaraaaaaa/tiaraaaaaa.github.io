@@ -10,16 +10,16 @@
   {
     "title": "[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion",
     "url": "/posts/ISMAR2024-VibroArm/",
-    "categories": "Haptic, Virtual Reality",
-    "tags": "Haptic, Virtual Reality",
+    "categories": "Haptics, Virtual Reality",
+    "tags": "Haptics, Virtual Reality",
     "date": "2024-10-21 00:00:00 +0800",
     "content": "A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion."
   },
   {
     "title": "[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip",
     "url": "/posts/CHI2024-AirPush/",
-    "categories": "Haptic, Virtual Reality",
-    "tags": "Haptic, Virtual Reality",
+    "categories": "Haptics, Virtual Reality",
+    "tags": "Haptics, Virtual Reality",
     "date": "2024-05-11 00:00:00 +0800",
     "content": "A finger wearable haptic device capable of generating continuously adjustable force feedback in multiple directions using compressed air."
   }
