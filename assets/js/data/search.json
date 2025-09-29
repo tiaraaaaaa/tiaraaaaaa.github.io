@@ -1,27 +1,35 @@
 [
   {
-    "title": "papper",
-    "url": "/posts/text-and-typography-copy/",
-    "categories": "Blogging, Tutorial",
-    "tags": "getting started",
-    "date": "2024-08-09 20:55:00 +0800",
-    "content": "Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server."
+    "title": "[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design",
+    "url": "/posts/SIGGRAPH-Asia-2025-PinCity/",
+    "categories": "XR, Shape-changing Display",
+    "tags": "XR, Shape-changing Display",
+    "date": "2025-08-20 00:00:00 +0800",
+    "content": "An AR urban design system that enables multiple users to have real-time tangible interaction between virtual urban models and a physical pin-array-based shape-changing display within a synchronized..."
   },
   {
-    "title": "Writing a New Post",
-    "url": "/posts/write-a-new-post/",
-    "categories": "Blogging, Tutorial",
-    "tags": "writing",
-    "date": "2019-10-08 14:10:00 +0800",
-    "content": "This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.  Naming and..."
+    "title": "[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR",
+    "url": "/posts/CHI2025-VRCaption-copy/",
+    "categories": "Accessibility, Virtual Reality",
+    "tags": "Accessibility, Virtual Reality",
+    "date": "2025-04-25 00:00:00 +0800",
+    "content": "A caption prototype for the inclusive and accessible caption system for DHH individuals in VR multiplayer conversations."
   },
   {
-    "title": "Text and Typography",
-    "url": "/posts/text-and-typography/",
-    "categories": "Blogging, Demo",
-    "tags": "typography",
-    "date": "2019-09-08 11:33:00 +0800",
-    "content": "Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more."
+    "title": "[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion",
+    "url": "/posts/ISMAR2024-VibroArm/",
+    "categories": "Haptics, Virtual Reality",
+    "tags": "Haptics, Virtual Reality",
+    "date": "2024-10-21 00:00:00 +0800",
+    "content": "A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion."
+  },
+  {
+    "title": "[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip",
+    "url": "/posts/CHI2024-AirPush/",
+    "categories": "Haptics, Virtual Reality",
+    "tags": "Haptics, Virtual Reality",
+    "date": "2024-05-11 00:00:00 +0800",
+    "content": "A finger wearable haptic device capable of generating continuously adjustable force feedback in multiple directions using compressed air."
   }
   
 ]

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Tianze XIE</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-04-23T19:58:44+08:00</updated>
+  <updated>2025-09-29T17:12:13+08:00</updated>
   <author>
     <name>Tianze XIE</name>
     <uri>http://localhost:4000/</uri>
@@ -20,79 +20,105 @@
 
   
   <entry>
-    <title>papper</title>
-    <link href="http://localhost:4000/posts/text-and-typography-copy/" rel="alternate" type="text/html" title="papper" />
-    <published>2024-08-09T20:55:00+08:00</published>
+    <title>[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design</title>
+    <link href="http://localhost:4000/posts/SIGGRAPH-Asia-2025-PinCity/" rel="alternate" type="text/html" title="[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design" />
+    <published>2025-08-20T00:00:00+08:00</published>
   
-    <updated>2024-08-09T20:55:00+08:00</updated>
+    <updated>2025-08-20T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/text-and-typography-copy/</id>
-    <content type="text/html" src="http://localhost:4000/posts/text-and-typography-copy/" />
+    <id>http://localhost:4000/posts/SIGGRAPH-Asia-2025-PinCity/</id>
+    <content type="text/html" src="http://localhost:4000/posts/SIGGRAPH-Asia-2025-PinCity/" />
     <author>
-      <name>cotes</name>
+      <name>tianze</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="XR" />
     
-    <category term="Tutorial" />
+    <category term="Shape-changing Display" />
     
   
 
-  <summary>Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.</summary>
+  <summary>An AR urban design system that enables multiple users to have real-time tangible interaction between virtual urban models and a physical pin-array-based shape-changing display within a synchronized augmented environment.</summary>
 
   </entry>
 
   
   <entry>
-    <title>Writing a New Post</title>
-    <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-10-08T14:10:00+08:00</published>
+    <title>[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR</title>
+    <link href="http://localhost:4000/posts/CHI2025-VRCaption-copy/" rel="alternate" type="text/html" title="[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR" />
+    <published>2025-04-25T00:00:00+08:00</published>
   
-    <updated>2019-10-08T14:10:00+08:00</updated>
+    <updated>2025-04-25T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/write-a-new-post/</id>
-    <content type="text/html" src="http://localhost:4000/posts/write-a-new-post/" />
+    <id>http://localhost:4000/posts/CHI2025-VRCaption-copy/</id>
+    <content type="text/html" src="http://localhost:4000/posts/CHI2025-VRCaption-copy/" />
     <author>
-      <name>cotes</name>
+      <name>tianze</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Accessibility" />
     
-    <category term="Tutorial" />
+    <category term="Virtual Reality" />
     
   
 
-  <summary>This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.  Naming and Path  Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of the root directory. Please note that the EXTENSION must be one of md and markdown. If you want to save time of cre...</summary>
+  <summary>A caption prototype for the inclusive and accessible caption system for DHH individuals in VR multiplayer conversations.</summary>
 
   </entry>
 
   
   <entry>
-    <title>Text and Typography</title>
-    <link href="http://localhost:4000/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
-    <published>2019-09-08T11:33:00+08:00</published>
+    <title>[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion</title>
+    <link href="http://localhost:4000/posts/ISMAR2024-VibroArm/" rel="alternate" type="text/html" title="[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion" />
+    <published>2024-10-21T00:00:00+08:00</published>
   
-    <updated>2019-09-08T11:33:00+08:00</updated>
+    <updated>2024-10-21T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/text-and-typography/</id>
-    <content type="text/html" src="http://localhost:4000/posts/text-and-typography/" />
+    <id>http://localhost:4000/posts/ISMAR2024-VibroArm/</id>
+    <content type="text/html" src="http://localhost:4000/posts/ISMAR2024-VibroArm/" />
     <author>
-      <name>cotes</name>
+      <name>tianze</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Haptics" />
     
-    <category term="Demo" />
+    <category term="Virtual Reality" />
     
   
 
-  <summary>Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.</summary>
+  <summary>A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip</title>
+    <link href="http://localhost:4000/posts/CHI2024-AirPush/" rel="alternate" type="text/html" title="[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip" />
+    <published>2024-05-11T00:00:00+08:00</published>
+  
+    <updated>2024-05-11T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/CHI2024-AirPush/</id>
+    <content type="text/html" src="http://localhost:4000/posts/CHI2024-AirPush/" />
+    <author>
+      <name>tianze</name>
+    </author>
+
+  
+    
+    <category term="Haptics" />
+    
+    <category term="Virtual Reality" />
+    
+  
+
+  <summary>A finger wearable haptic device capable of generating continuously adjustable force feedback in multiple directions using compressed air.</summary>
 
   </entry>
 
