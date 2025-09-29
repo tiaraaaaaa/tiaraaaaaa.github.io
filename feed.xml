@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://tiaraaaaaa.github.io//</id>
   <title>Tianze XIE</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-09-29T17:12:13+08:00</updated>
+  <updated>2025-09-29T18:03:17+08:00</updated>
   <author>
     <name>Tianze XIE</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://tiaraaaaaa.github.io//</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://tiaraaaaaa.github.io//feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://tiaraaaaaa.github.io//"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Tianze XIE </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design</title>
-    <link href="http://localhost:4000/posts/SIGGRAPH-Asia-2025-PinCity/" rel="alternate" type="text/html" title="[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design" />
+    <link href="https://tiaraaaaaa.github.io//posts/SIGGRAPH-Asia-2025-PinCity/" rel="alternate" type="text/html" title="[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design" />
     <published>2025-08-20T00:00:00+08:00</published>
   
     <updated>2025-08-20T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/SIGGRAPH-Asia-2025-PinCity/</id>
-    <content type="text/html" src="http://localhost:4000/posts/SIGGRAPH-Asia-2025-PinCity/" />
+    <id>https://tiaraaaaaa.github.io//posts/SIGGRAPH-Asia-2025-PinCity/</id>
+    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/SIGGRAPH-Asia-2025-PinCity/" />
     <author>
       <name>tianze</name>
     </author>
@@ -47,13 +47,13 @@
   
   <entry>
     <title>[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR</title>
-    <link href="http://localhost:4000/posts/CHI2025-VRCaption-copy/" rel="alternate" type="text/html" title="[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR" />
+    <link href="https://tiaraaaaaa.github.io//posts/CHI2025-VRCaption/" rel="alternate" type="text/html" title="[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR" />
     <published>2025-04-25T00:00:00+08:00</published>
   
     <updated>2025-04-25T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/CHI2025-VRCaption-copy/</id>
-    <content type="text/html" src="http://localhost:4000/posts/CHI2025-VRCaption-copy/" />
+    <id>https://tiaraaaaaa.github.io//posts/CHI2025-VRCaption/</id>
+    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/CHI2025-VRCaption/" />
     <author>
       <name>tianze</name>
     </author>
@@ -73,13 +73,13 @@
   
   <entry>
     <title>[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion</title>
-    <link href="http://localhost:4000/posts/ISMAR2024-VibroArm/" rel="alternate" type="text/html" title="[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion" />
+    <link href="https://tiaraaaaaa.github.io//posts/ISMAR2024-VibroArm/" rel="alternate" type="text/html" title="[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion" />
     <published>2024-10-21T00:00:00+08:00</published>
   
     <updated>2024-10-21T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/ISMAR2024-VibroArm/</id>
-    <content type="text/html" src="http://localhost:4000/posts/ISMAR2024-VibroArm/" />
+    <id>https://tiaraaaaaa.github.io//posts/ISMAR2024-VibroArm/</id>
+    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/ISMAR2024-VibroArm/" />
     <author>
       <name>tianze</name>
     </author>
@@ -99,13 +99,13 @@
   
   <entry>
     <title>[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip</title>
-    <link href="http://localhost:4000/posts/CHI2024-AirPush/" rel="alternate" type="text/html" title="[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip" />
+    <link href="https://tiaraaaaaa.github.io//posts/CHI2024-AirPush/" rel="alternate" type="text/html" title="[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip" />
     <published>2024-05-11T00:00:00+08:00</published>
   
     <updated>2024-05-11T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/CHI2024-AirPush/</id>
-    <content type="text/html" src="http://localhost:4000/posts/CHI2024-AirPush/" />
+    <id>https://tiaraaaaaa.github.io//posts/CHI2024-AirPush/</id>
+    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/CHI2024-AirPush/" />
     <author>
       <name>tianze</name>
     </author>
