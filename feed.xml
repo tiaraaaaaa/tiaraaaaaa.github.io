@@ -4,7 +4,7 @@
   <id>https://tiaraaaaaa.github.io//</id>
   <title>Tianze XIE</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-09-29T18:03:17+08:00</updated>
+  <updated>2026-01-09T12:01:25+08:00</updated>
   <author>
     <name>Tianze XIE</name>
     <uri>https://tiaraaaaaa.github.io//</uri>
@@ -13,10 +13,58 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="https://tiaraaaaaa.github.io//"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 Tianze XIE </rights>
+  <rights> © 2026 Tianze XIE </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>[IJHCI] “Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality</title>
+    <link href="https://tiaraaaaaa.github.io//posts/IJHCI-Wall/" rel="alternate" type="text/html" title="[IJHCI] “Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality" />
+    <published>2025-11-05T00:00:00+08:00</published>
+  
+    <updated>2025-11-05T00:00:00+08:00</updated>
+  
+    <id>https://tiaraaaaaa.github.io//posts/IJHCI-Wall/</id>
+    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/IJHCI-Wall/" />
+    <author>
+      <name>tianze</name>
+    </author>
+
+  
+    
+    <category term="Collaboration" />
+    
+    <category term="Virtual Reality" />
+    
+  
+
+  <summary>A study demonstrates that wall transparency is a critical design concept in VR collaboration, shaping attention, stress, and collaborative experience.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>I start visiting MIT Media Lab from Oct. to Nov. 2025</title>
+    <link href="https://tiaraaaaaa.github.io//posts/News-MIT/" rel="alternate" type="text/html" title="I start visiting MIT Media Lab from Oct. to Nov. 2025" />
+    <published>2025-10-25T00:00:00+08:00</published>
+  
+    <updated>2025-10-25T00:00:00+08:00</updated>
+  
+    <id>https://tiaraaaaaa.github.io//posts/News-MIT/</id>
+    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/News-MIT/" />
+    <author>
+      <name>tianze</name>
+    </author>
+
+  
+    
+  
+
+  <summary>From October to November 2025, I was a visiting student at the MIT Media Lab, working with the City Science Group. During this visit, I participated in an intensive research exchange centered on a collaborative project titled “Three-dimensional Community Simulation Interface: Designing and Manufacturing RoboScope, a Pin-Array Display to Facilitate Understanding Through Iteration of a Community’...</summary>
+
+  </entry>
 
   
   <entry>
@@ -93,32 +141,6 @@
   
 
   <summary>A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip</title>
-    <link href="https://tiaraaaaaa.github.io//posts/CHI2024-AirPush/" rel="alternate" type="text/html" title="[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip" />
-    <published>2024-05-11T00:00:00+08:00</published>
-  
-    <updated>2024-05-11T00:00:00+08:00</updated>
-  
-    <id>https://tiaraaaaaa.github.io//posts/CHI2024-AirPush/</id>
-    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/CHI2024-AirPush/" />
-    <author>
-      <name>tianze</name>
-    </author>
-
-  
-    
-    <category term="Haptics" />
-    
-    <category term="Virtual Reality" />
-    
-  
-
-  <summary>A finger wearable haptic device capable of generating continuously adjustable force feedback in multiple directions using compressed air.</summary>
 
   </entry>
 

@@ -1,5 +1,21 @@
 [
   {
+    "title": "[IJHCI] “Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality",
+    "url": "/posts/IJHCI-Wall/",
+    "categories": "Collaboration, Virtual Reality",
+    "tags": "Haptics, Virtual Reality",
+    "date": "2025-11-05 00:00:00 +0800",
+    "content": "A study demonstrates that wall transparency is a critical design concept in VR collaboration, shaping attention, stress, and collaborative experience."
+  },
+  {
+    "title": "I start visiting MIT Media Lab from Oct. to Nov. 2025",
+    "url": "/posts/News-MIT/",
+    "categories": "",
+    "tags": "News",
+    "date": "2025-10-25 00:00:00 +0800",
+    "content": "From October to November 2025, I was a visiting student at the MIT Media Lab, working with the City Science Group. During this visit, I participated in an intensive research exchange centered on a ..."
+  },
+  {
     "title": "[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design",
     "url": "/posts/SIGGRAPH-Asia-2025-PinCity/",
     "categories": "XR, Shape-changing Display",
