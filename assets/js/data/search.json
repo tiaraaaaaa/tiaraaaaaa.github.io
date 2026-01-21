@@ -1,11 +1,11 @@
 [
   {
-    "title": "[IJHCI] “Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality",
+    "title": "“Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality",
     "url": "/posts/IJHCI-Wall/",
     "categories": "Collaboration, Virtual Reality",
     "tags": "Haptics, Virtual Reality",
     "date": "2025-11-05 00:00:00 +0800",
-    "content": "A study demonstrates that wall transparency is a critical design concept in VR collaboration, shaping attention, stress, and collaborative experience."
+    "content": "[IJHCI] A study demonstrates that wall transparency is a critical design concept in VR collaboration, shaping attention, stress, and collaborative experience."
   },
   {
     "title": "I start visiting MIT Media Lab from Oct. to Nov. 2025",
@@ -16,36 +16,36 @@
     "content": "From October to November 2025, I was a visiting student at the MIT Media Lab, working with the City Science Group. During this visit, I participated in an intensive research exchange centered on a ..."
   },
   {
-    "title": "[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design",
+    "title": "PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design",
     "url": "/posts/SIGGRAPH-Asia-2025-PinCity/",
     "categories": "XR, Shape-changing Display",
     "tags": "XR, Shape-changing Display",
     "date": "2025-08-20 00:00:00 +0800",
-    "content": "An AR urban design system that enables multiple users to have real-time tangible interaction between virtual urban models and a physical pin-array-based shape-changing display within a synchronized..."
+    "content": "[SIGGRAPH Asia 2025] An AR urban design system that enables multiple users to have real-time tangible interaction between virtual urban models and a physical pin-array-based shape-changing display."
   },
   {
-    "title": "[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR",
+    "title": "VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR",
     "url": "/posts/CHI2025-VRCaption/",
     "categories": "Accessibility, Virtual Reality",
     "tags": "Accessibility, Virtual Reality",
     "date": "2025-04-25 00:00:00 +0800",
-    "content": "A caption prototype for the inclusive and accessible caption system for DHH individuals in VR multiplayer conversations."
+    "content": "[CHI 2025] A caption prototype for the inclusive and accessible caption system for DHH individuals in VR multiplayer conversations."
   },
   {
-    "title": "[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion",
+    "title": "VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion",
     "url": "/posts/ISMAR2024-VibroArm/",
     "categories": "Haptics, Virtual Reality",
     "tags": "Haptics, Virtual Reality",
     "date": "2024-10-21 00:00:00 +0800",
-    "content": "A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion."
+    "content": "[ISMAR 2024] A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion."
   },
   {
-    "title": "[CHI 2024] AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip",
+    "title": "AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip",
     "url": "/posts/CHI2024-AirPush/",
     "categories": "Haptics, Virtual Reality",
     "tags": "Haptics, Virtual Reality",
     "date": "2024-05-11 00:00:00 +0800",
-    "content": "A finger wearable haptic device capable of generating continuously adjustable force feedback in multiple directions using compressed air."
+    "content": "[CHI 2024] A finger wearable haptic device capable of generating continuously adjustable force feedback in multiple directions using compressed air."
   }
   
 ]

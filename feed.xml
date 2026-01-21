@@ -4,7 +4,7 @@
   <id>https://tiaraaaaaa.github.io//</id>
   <title>Tianze XIE</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2026-01-09T12:01:25+08:00</updated>
+  <updated>2026-01-21T13:06:12+08:00</updated>
   <author>
     <name>Tianze XIE</name>
     <uri>https://tiaraaaaaa.github.io//</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>[IJHCI] “Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality</title>
-    <link href="https://tiaraaaaaa.github.io//posts/IJHCI-Wall/" rel="alternate" type="text/html" title="[IJHCI] “Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality" />
+    <title>“Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality</title>
+    <link href="https://tiaraaaaaa.github.io//posts/IJHCI-Wall/" rel="alternate" type="text/html" title="“Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality" />
     <published>2025-11-05T00:00:00+08:00</published>
   
     <updated>2025-11-05T00:00:00+08:00</updated>
@@ -40,7 +40,7 @@
     
   
 
-  <summary>A study demonstrates that wall transparency is a critical design concept in VR collaboration, shaping attention, stress, and collaborative experience.</summary>
+  <summary>[IJHCI] A study demonstrates that wall transparency is a critical design concept in VR collaboration, shaping attention, stress, and collaborative experience.</summary>
 
   </entry>
 
@@ -68,8 +68,8 @@
 
   
   <entry>
-    <title>[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design</title>
-    <link href="https://tiaraaaaaa.github.io//posts/SIGGRAPH-Asia-2025-PinCity/" rel="alternate" type="text/html" title="[SIGGRAPH Asia 2025] PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design" />
+    <title>PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design</title>
+    <link href="https://tiaraaaaaa.github.io//posts/SIGGRAPH-Asia-2025-PinCity/" rel="alternate" type="text/html" title="PinCity: Multiplayer AR system with Shape-Changing Displays for Dynamic Urban Design" />
     <published>2025-08-20T00:00:00+08:00</published>
   
     <updated>2025-08-20T00:00:00+08:00</updated>
@@ -88,14 +88,14 @@
     
   
 
-  <summary>An AR urban design system that enables multiple users to have real-time tangible interaction between virtual urban models and a physical pin-array-based shape-changing display within a synchronized augmented environment.</summary>
+  <summary>[SIGGRAPH Asia 2025] An AR urban design system that enables multiple users to have real-time tangible interaction between virtual urban models and a physical pin-array-based shape-changing display.</summary>
 
   </entry>
 
   
   <entry>
-    <title>[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR</title>
-    <link href="https://tiaraaaaaa.github.io//posts/CHI2025-VRCaption/" rel="alternate" type="text/html" title="[CHI 2025] VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR" />
+    <title>VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR</title>
+    <link href="https://tiaraaaaaa.github.io//posts/CHI2025-VRCaption/" rel="alternate" type="text/html" title="VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR" />
     <published>2025-04-25T00:00:00+08:00</published>
   
     <updated>2025-04-25T00:00:00+08:00</updated>
@@ -114,14 +114,14 @@
     
   
 
-  <summary>A caption prototype for the inclusive and accessible caption system for DHH individuals in VR multiplayer conversations.</summary>
+  <summary>[CHI 2025] A caption prototype for the inclusive and accessible caption system for DHH individuals in VR multiplayer conversations.</summary>
 
   </entry>
 
   
   <entry>
-    <title>[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion</title>
-    <link href="https://tiaraaaaaa.github.io//posts/ISMAR2024-VibroArm/" rel="alternate" type="text/html" title="[ISMAR 2024] VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion" />
+    <title>VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion</title>
+    <link href="https://tiaraaaaaa.github.io//posts/ISMAR2024-VibroArm/" rel="alternate" type="text/html" title="VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion" />
     <published>2024-10-21T00:00:00+08:00</published>
   
     <updated>2024-10-21T00:00:00+08:00</updated>
@@ -140,7 +140,7 @@
     
   
 
-  <summary>A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion.</summary>
+  <summary>[ISMAR 2024] A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion.</summary>
 
   </entry>
 
