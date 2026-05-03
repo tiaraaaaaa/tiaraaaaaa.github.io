@@ -4,7 +4,7 @@
   <id>https://tiaraaaaaa.github.io//</id>
   <title>Tianze XIE</title>
   <subtitle>Ph.D. student in the School of Design at Southern University of Science and Technology. Researching HCI, XR, Haptics, and Perception.</subtitle>
-  <updated>2026-04-13T18:40:55+08:00</updated>
+  <updated>2026-05-03T23:48:42+08:00</updated>
   <author>
     <name>Tianze XIE</name>
     <uri>https://tiaraaaaaa.github.io//</uri>
@@ -46,6 +46,28 @@
 
   
   <entry>
+    <title>[News] Our 'Shape-shifting Pin Table' won the iF DESIGN AWARD 2026</title>
+    <link href="https://tiaraaaaaa.github.io//posts/News-DCBolt-iF/" rel="alternate" type="text/html" title="[News] Our &amp;apos;Shape-shifting Pin Table&amp;apos; won the iF DESIGN AWARD 2026" />
+    <published>2026-02-28T00:00:00+08:00</published>
+  
+    <updated>2026-02-28T00:00:00+08:00</updated>
+  
+    <id>https://tiaraaaaaa.github.io//posts/News-DCBolt-iF/</id>
+    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/News-DCBolt-iF/" />
+    <author>
+      <name>tianze</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Shape-Shifting Pin Table  Dynamic Estate Scale Model, Map Generation Device  Pin Table is a reconfigurable motorized pin-array that turns urban data into tangible topographies. Inspired by the digital age’s surge in hardware–software data visualization, the concept is realised as an original, engineered system. It converts spatial, temporal and programmatic datasets into intuitive physical mode...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>“Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality</title>
     <link href="https://tiaraaaaaa.github.io//posts/IJHCI-Wall/" rel="alternate" type="text/html" title="“Do we need opaque walls?”: Exploring Collaboration Space Design Using Transparency Attributes on the Room Walls in Virtual Reality" />
     <published>2025-11-05T00:00:00+08:00</published>
@@ -72,8 +94,8 @@
 
   
   <entry>
-    <title>I start visiting MIT Media Lab from Oct. to Nov. 2025</title>
-    <link href="https://tiaraaaaaa.github.io//posts/News-MIT/" rel="alternate" type="text/html" title="I start visiting MIT Media Lab from Oct. to Nov. 2025" />
+    <title>[News] Visiting MIT Media Lab from Oct. to Nov. 2025</title>
+    <link href="https://tiaraaaaaa.github.io//posts/News-MIT/" rel="alternate" type="text/html" title="[News] Visiting MIT Media Lab from Oct. to Nov. 2025" />
     <published>2025-10-25T00:00:00+08:00</published>
   
     <updated>2025-10-25T00:00:00+08:00</updated>
@@ -115,32 +137,6 @@
   
 
   <summary>[SIGGRAPH Asia 2025] An AR urban design system that enables multiple users to have real-time tangible interaction between virtual urban models and a physical pin-array-based shape-changing display.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR</title>
-    <link href="https://tiaraaaaaa.github.io//posts/CHI2025-VRCaption-copy/" rel="alternate" type="text/html" title="VRCaptions: Design Captions for DHH Users in Multiplayer Communication in VR" />
-    <published>2025-04-25T00:00:00+08:00</published>
-  
-    <updated>2025-04-25T00:00:00+08:00</updated>
-  
-    <id>https://tiaraaaaaa.github.io//posts/CHI2025-VRCaption-copy/</id>
-    <content type="text/html" src="https://tiaraaaaaa.github.io//posts/CHI2025-VRCaption-copy/" />
-    <author>
-      <name>tianze</name>
-    </author>
-
-  
-    
-    <category term="Accessibility" />
-    
-    <category term="Virtual Reality" />
-    
-  
-
-  <summary>[CHI 2025] A caption prototype for the inclusive and accessible caption system for DHH individuals in VR multiplayer conversations.</summary>
 
   </entry>
 
