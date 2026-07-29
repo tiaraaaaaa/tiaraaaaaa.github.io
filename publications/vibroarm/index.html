@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+
+    
+    
+    <title>VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion · Tianze Xie</title>
+    <meta name="description" content="[ISMAR 2024] A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion.">
+    <link rel="canonical" href="https://tiaraaaaaa.github.io/publications/vibroarm/">
+
+    <meta property="og:title" content="VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion">
+    <meta property="og:description" content="[ISMAR 2024] A lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tiaraaaaaa.github.io/publications/vibroarm/">
+
+    <link rel="icon" href="/assets/img/favicons/favicon.ico" sizes="any">
+    <link rel="icon" href="/assets/img/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Lato:ital,wght@0,300;0,400;0,600;0,700;0,900;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.1/css/all.min.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <script>
+      (function () {
+        var saved = localStorage.getItem('color-mode');
+        if (saved) document.documentElement.dataset.theme = saved;
+      })();
+    </script>
+  </head>
+
+  <body class="layout-publication">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <div class="site-shell">
+      <aside class="site-sidebar">
+        <div class="profile">
+          <a class="avatar" href="/" aria-label="Home">
+            <img src="/assets/img/avatar.jpg" width="128" height="128" alt="Tianze Xie">
+          </a>
+          <a class="site-name" href="/">Tianze Xie</a>
+          <p class="site-tagline">PhD Student at Southern University of Science and Technology</p>
+        </div>
+
+        <nav class="site-nav" aria-label="Main navigation">
+          <a  href="/">Home</a>
+          <a class="active" href="/publications/">Publications</a>
+          <a  href="/projects/">Projects</a>
+        </nav>
+
+        <div class="sidebar-footer">
+          <button class="theme-toggle" type="button" aria-label="Switch color mode" title="Switch color mode">
+            <i class="fa-solid fa-circle-half-stroke" aria-hidden="true"></i>
+          </button>
+          <span class="icon-border" aria-hidden="true"></span>
+          <div class="social-links">
+            <a href="mailto:tiaraaaxie@gmail.com" aria-label="Email" title="Email">
+              <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+            </a>
+            <a href="https://github.com/tiaraaaaaa" target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="GitHub">
+              <i class="fa-brands fa-github" aria-hidden="true"></i>
+            </a>
+            <a href="https://twitter.com/tiaraxie" target="_blank" rel="noopener noreferrer" aria-label="X" title="X">
+              <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/tianzexie/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
+              <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+      </aside>
+
+      <header class="mobile-header">
+        <a class="mobile-name" href="/">Tianze Xie</a>
+        <nav aria-label="Mobile navigation">
+          <a href="/">Home</a>
+          <a href="/publications/">Publications</a>
+          <a href="/projects/">Projects</a>
+          <button class="theme-toggle" type="button" aria-label="Switch color mode">◐</button>
+        </nav>
+      </header>
+
+      <main id="main-content" class="site-main">
+        <div class="site-content-grid">
+          <div class="primary-content">
+            <article class="post publication">
+  <header class="post-header publication-post-header">
+    <a class="back-link" href="/publications/">
+      ← Publications
+    </a>
+    <h1>VibroArm: Enhancing the Sensation of Forearm Deformation in Virtual Reality Using Vibrotactile Funneling Illusion</h1>
+    <div class="post-publication-meta">
+      
+      
+      
+      <p class="post-publication-authors"><a href="https://rayleigh-lin.top">Yilong Lin</a>, <strong>Tianze Xie</strong>, Yingjie Chang, Hu Luo, Dangxiao Wang, Seungwoo Je</p>
+      <p class="post-publication-venue">
+        <span>IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2024)</span>
+        
+          <a class="publication-doi" href="https://ieeexplore.ieee.org/document/10765489" target="_blank" rel="noopener noreferrer">DOI</a>
+        
+      </p>
+    </div>
+
+    
+      <div class="publication-tags" aria-label="Publication tags">
+        
+          <a class="tag-pill" href="/tags/#tag-haptics">Haptics</a>
+        
+          <a class="tag-pill" href="/tags/#tag-virtual-reality">Virtual Reality</a>
+        
+      </div>
+    
+  </header>
+
+  <div class="post-content">
+    <h2 id="abstract">Abstract</h2>
+
+<p>When we enter Virtual Reality (VR) in the first person, the avatar replaces our real body. Within a certain range of mismatches, we tend to identify with our avatar and perceive it as our own body. Previous research has shown that we can even believe that a deformed forearm is our own through haptic and visual feedback. However, the haptic devices used in earlier research were only explored using skin-stretching and weight-shifting. Vibrotactile feedback is the most common technique used to create a haptic VR experience in academia and industry because of its light weight and ease of application. Taking these advantages, we introduce VibroArm, a lightweight wearable haptic system with the vibrotactile funneling illusion that enhances the virtual forearm’s ownership in the forearm deformation illusion. In a perceptual study, we determined that users can make correct direction judgments about vibration on the forearm in different directions. The result shows that all vibration patterns can be sufficiently recognized, with an average recognition rate of 87.17%. Based on our results, we designed 18 vibration patterns and compared their impact on the forearm deformation illusion. Finally, our study shows that using VibroArm in VR applications can significantly improve user realism and enjoyment compared to relying on visual feedback alone. <a href="https://ieeexplore.ieee.org/document/10765489"><strong>[doi]</strong></a></p>
+
+<p data-toc-skip="" class="mt-4 mb-0"><img src="/assets/img/publications/vibroarm/overview.png" alt="VibroArm wearable haptic system" width="972" height="589" class="w-75 normal" /></p>
+
+  </div>
+</article>
+
+            <footer class="site-footer">
+              <span>© 2026 Tianze Xie</span>
+              <span>Built with Jekyll.</span>
+            </footer>
+          </div>
+
+          <aside class="tag-panel" aria-label="Research tags">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+
+
+  <section class="trending-tags" aria-labelledby="trending-tags-heading">
+    <h2 id="trending-tags-heading">Research Tags</h2>
+    <div class="tag-cloud">
+      
+        
+        <a class="tag-pill" href="/tags/#tag-virtual-reality">Virtual Reality</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-collaboration">Collaboration</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-haptics">Haptics</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-accessibility">Accessibility</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-augmented-reality">Augmented Reality</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-shape-changing-display">Shape-changing Display</a>
+      
+    </div>
+  </section>
+
+
+          </aside>
+        </div>
+      </main>
+    </div>
+
+    <script src="/assets/js/site.js"></script>
+  </body>
+</html>
