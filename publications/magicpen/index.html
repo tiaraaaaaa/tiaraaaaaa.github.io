@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+
+    
+    
+    <title>MagicPen: Enabling Dynamic Physical Scaffolding through Haptic Feedback for 3D Content Creation in VR with a Variable-length Stylus · Tianze Xie</title>
+    <meta name="description" content="[UIST 2026] A variable-length stylus that provides grounded haptic scaffolding for precise 3D content creation in virtual reality.">
+    <link rel="canonical" href="https://tiaraaaaaa.github.io/publications/magicpen/">
+
+    <meta property="og:title" content="MagicPen: Enabling Dynamic Physical Scaffolding through Haptic Feedback for 3D Content Creation in VR with a Variable-length Stylus">
+    <meta property="og:description" content="[UIST 2026] A variable-length stylus that provides grounded haptic scaffolding for precise 3D content creation in virtual reality.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tiaraaaaaa.github.io/publications/magicpen/">
+
+    <link rel="icon" href="/assets/img/favicons/favicon.ico" sizes="any">
+    <link rel="icon" href="/assets/img/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Lato:ital,wght@0,300;0,400;0,600;0,700;0,900;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.1/css/all.min.css">
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <script>
+      (function () {
+        var saved = localStorage.getItem('color-mode');
+        if (saved) document.documentElement.dataset.theme = saved;
+      })();
+    </script>
+  </head>
+
+  <body class="layout-publication">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <div class="site-shell">
+      <aside class="site-sidebar">
+        <div class="profile">
+          <a class="avatar" href="/" aria-label="Home">
+            <img src="/assets/img/avatar.jpg" width="128" height="128" alt="Tianze Xie">
+          </a>
+          <a class="site-name" href="/">Tianze Xie</a>
+          <p class="site-tagline">PhD Student at Southern University of Science and Technology</p>
+        </div>
+
+        <nav class="site-nav" aria-label="Main navigation">
+          <a  href="/">Home</a>
+          <a class="active" href="/publications/">Publications</a>
+          <a  href="/projects/">Projects</a>
+        </nav>
+
+        <div class="sidebar-footer">
+          <button class="theme-toggle" type="button" aria-label="Switch color mode" title="Switch color mode">
+            <i class="fa-solid fa-circle-half-stroke" aria-hidden="true"></i>
+          </button>
+          <span class="icon-border" aria-hidden="true"></span>
+          <div class="social-links">
+            <a href="mailto:tiaraaaxie@gmail.com" aria-label="Email" title="Email">
+              <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+            </a>
+            <a href="https://github.com/tiaraaaaaa" target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="GitHub">
+              <i class="fa-brands fa-github" aria-hidden="true"></i>
+            </a>
+            <a href="https://twitter.com/tiaraxie" target="_blank" rel="noopener noreferrer" aria-label="X" title="X">
+              <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/tianzexie/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" title="LinkedIn">
+              <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+      </aside>
+
+      <header class="mobile-header">
+        <a class="mobile-name" href="/">Tianze Xie</a>
+        <nav aria-label="Mobile navigation">
+          <a href="/">Home</a>
+          <a href="/publications/">Publications</a>
+          <a href="/projects/">Projects</a>
+          <button class="theme-toggle" type="button" aria-label="Switch color mode">◐</button>
+        </nav>
+      </header>
+
+      <main id="main-content" class="site-main">
+        <div class="site-content-grid">
+          <div class="primary-content">
+            <article class="post publication">
+  <header class="post-header publication-post-header">
+    <a class="back-link" href="/publications/">
+      ← Publications
+    </a>
+    <h1>MagicPen: Enabling Dynamic Physical Scaffolding through Haptic Feedback for 3D Content Creation in VR with a Variable-length Stylus</h1>
+    <div class="post-publication-meta">
+      
+      
+      
+      <p class="post-publication-authors"><a href="https://zhicheng_wang.gitlab.io/">Zhicheng Wang</a>, <strong>Tianze Xie</strong>, <a href="https://rayleigh-lin.top">Yilong Lin</a>, <a href="https://hcisong.github.io/about.html">Xuesong Zhang</a>, Daniele Giunchi, Eyal Ofek, Seungwoo Je</p>
+      <p class="post-publication-venue">
+        <span>ACM Symposium on User Interface Software and Technology (UIST 2026)</span>
+        
+          <a class="publication-doi" href="https://doi.org/10.1145/3830398.3830535" target="_blank" rel="noopener noreferrer">DOI</a>
+        
+      </p>
+    </div>
+
+    
+      <div class="publication-tags" aria-label="Publication tags">
+        
+          <a class="tag-pill" href="/tags/#tag-haptics">Haptics</a>
+        
+          <a class="tag-pill" href="/tags/#tag-virtual-reality">Virtual Reality</a>
+        
+      </div>
+    
+  </header>
+
+  <div class="post-content">
+    <h2 id="abstract">Abstract</h2>
+
+<p>Three-dimensional content creation in virtual reality is commonly performed in mid-air, which provides freedom of movement but little physical support for perceiving shapes or editing geometry precisely. MagicPen addresses this limitation with a variable-length stylus that supplies grounded haptic feedback during on-surface interaction.</p>
+
+<p>The system introduces dynamic physical scaffolding, adapting the stylus length to the current task. In compliant mode, it follows geometry as the user creates it; in rigid mode, it renders predefined virtual geometry as a physical constraint. Three user studies compared MagicPen with mid-air interaction across depth positioning, freeform planar drawing, and drawing on rendered geometry. The results show improved depth positioning and demonstrate how grounded shape perception can better support 3D content creation. <a href="https://doi.org/10.1145/3830398.3830535"><strong>[doi]</strong></a></p>
+
+
+  </div>
+</article>
+
+            <footer class="site-footer">
+              <span>© 2026 Tianze Xie</span>
+              <span>Built with Jekyll.</span>
+            </footer>
+          </div>
+
+          <aside class="tag-panel" aria-label="Research tags">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+
+
+  <section class="trending-tags" aria-labelledby="trending-tags-heading">
+    <h2 id="trending-tags-heading">Research Tags</h2>
+    <div class="tag-cloud">
+      
+        
+        <a class="tag-pill" href="/tags/#tag-virtual-reality">Virtual Reality</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-haptics">Haptics</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-collaboration">Collaboration</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-accessibility">Accessibility</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-augmented-reality">Augmented Reality</a>
+      
+        
+        <a class="tag-pill" href="/tags/#tag-shape-changing-display">Shape-changing Display</a>
+      
+    </div>
+  </section>
+
+
+          </aside>
+        </div>
+      </main>
+    </div>
+
+    <script src="/assets/js/site.js"></script>
+  </body>
+</html>
